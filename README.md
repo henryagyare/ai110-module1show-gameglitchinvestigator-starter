@@ -49,4 +49,5 @@ Screenshot of Passing Tests
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+<!-- - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here] -->
+TBD: Challenge 4: Enhanced Game UI
